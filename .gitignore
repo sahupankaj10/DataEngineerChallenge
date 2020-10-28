@@ -1,0 +1,31 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# site packages
+# Distribution / packaging
+.Python
+env/
+media/
+build/
+develop-eggs/
+.vscode/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
